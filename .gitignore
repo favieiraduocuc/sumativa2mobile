@@ -1,0 +1,22 @@
+(
+echo # Gradle
+echo .gradle/
+echo **/build/
+echo
+echo # Android Studio
+echo .idea/
+echo *.iml
+echo
+echo # Config local
+echo local.properties
+echo
+echo # Keystores
+echo *.jks
+echo *.keystore
+echo
+echo # NDK
+echo .cxx/
+echo
+echo # Capturas
+echo captures/
+)> .gitignore
