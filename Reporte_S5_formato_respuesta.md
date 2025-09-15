@@ -3,22 +3,22 @@
 **Nombre estudiante:** Fabián Ignacio Vieira Villarroel  
 **Asignatura:** Desarrollo de Aplicaciones Móviles (DSY2204)  
 **Carrera:** Ingeniería en Desarrollo de Software  
-**Profesor:** (complete)  
-**Fecha:** (complete)
+**Profesor:** MIGUEL EMILIO PUEBLA CUERO
+**Fecha:** 15-09-25
 
 ## Descripción de la actividad
 Integrar en la app Android (accesibilidad visual) funcionalidades Kotlin: **funciones de orden superior, lambdas, funciones de extensión y manejo de excepciones**; entregar **ZIP del código** y **documentación en PDF**.  
 
 ## Información del proyecto
-- **Organización:** (complete)  
-- **Sección:** (complete)  
-- **Proyecto (nombre):** Empresa (accesibilidad visual)  
-- **Fecha de inicio/término:** (complete)  
-- **Patrocinador/Docente:** (complete)
+- **Organización:** DUOC UC  
+- **Sección:** 002-A 
+- **Proyecto SUMATIVA 2
+- **Fecha de inicio/término:** 14-09-25 - 15-09-25  
+- **Patrocinador/Docente:** MIGUEL EMILIO PUEBLA CUERO
 
 ## Alcance del proyecto
-- **Problema:** (complete)
-- **Solución propuesta y contexto:** (complete)
+- **Problema:** KOTLIN Y ARQUITECTURA IMPLEMENTADA
+- **Solución propuesta y contexto:** IMPLEMENTAR ARQUITECTURA BASADA EN KOTLIN
 
 ## Funciones esperadas (mockup)
 - (Adjunte capturas de Login, Registro, Recuperar contraseña)
